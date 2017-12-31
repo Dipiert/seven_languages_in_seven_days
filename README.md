@@ -11,7 +11,7 @@ Contains:
 
   Day 1.
   
-  Day 2: reverse a list.
+  Day 2: reverse a list & find minimum of a list.
 
 - Erlang:
 
