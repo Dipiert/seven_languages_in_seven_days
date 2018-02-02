@@ -16,4 +16,8 @@ Contains:
 - Erlang:
 
   Day 1: count to ten.
+  
+- Clojure:
+  
+  Day 1.
 
